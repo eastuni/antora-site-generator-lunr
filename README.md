@@ -1,3 +1,8 @@
+2021-05-03
+add language ko
+
+==============
+
 # Antora Site Generator With Lunr
 
 [![npm](https://img.shields.io/npm/v/antora-site-generator-lunr)](https://www.npmjs.com/package/antora-site-generator-lunr)
